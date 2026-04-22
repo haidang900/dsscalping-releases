@@ -1,11 +1,11 @@
 {
-  "version": "0.2.14",
+  "version": "0.2.16",
   "notes": "Bug fixes and improvements",
-  "pub_date": "2026-04-22T17:25:46.607Z",
+  "pub_date": "2026-04-22T17:33:53.906Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZlZlbHI1Z3JGb3V1N2RYYVYybytTbDJzNkY1SzJnR3ozTkNuYUdvSkQzK2NZclc3TldQa1UrMDUyQkg5MllBbUNpODlEczQxSDhpWHllcjA2ckFqdmtLeEdQZG9QTFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODc4NzQ1CWZpbGU6RFNTIFNjYWxwaW5nXzAuMi4xNF94NjQtc2V0dXAuZXhlCnVCRFlSTFMwTXhBUGdQWnRwalpMRTZRbmlhdFBPRm9uaW5iL0JtNy81WkVHZlM2R2JpN21OVXZIK0tXVWFwSlR3YnFUR0hPQTRyV1F0bXRDZXBUS0J3PT0K",
-      "url": "https://github.com/haidang900/dsscalpingv1/releases/download/v0.2.14/DSS%20Scalping_0.2.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZlZlbHI1Z3JGb2oyOTVabHFYeE94Q1ZOUVBJdjBnbGt6TmVnUTA4dFc2OEF4S3VPcWViVFkyaE9LNWJha0lqN1FJZ2R4c2NobVd4SHl1WW16ak9oUkFSK0xzM1I4WUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODc5MjMzCWZpbGU6RFNTIFNjYWxwaW5nXzAuMi4xNl94NjQtc2V0dXAuZXhlClYySEtFVVMxVTlrNXlGaE96eWY1NCtKMTZFbUpDdXYrZFBSK3F6Z1R2a3NmWUl1blJoTVhEd05GaXQwQjB6ZWh5aFVENVY4V3JRb2U3YktFNGs0ckFBPT0K",
+      "url": "https://github.com/haidang900/dsscalping-releases/releases/download/v0.2.16/DSS%20Scalping_0.2.16_x64-setup.exe"
     }
   }
 }
